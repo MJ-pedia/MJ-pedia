@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Munia Jahan 👋
 
-<!--
-**MJ-pedia/MJ-pedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **MJ-pedia** — my little library of learning, building and creating.
 
-Here are some ideas to get you started:
+Founder of **Mammas Journey** — creating joyful, faith-based learning resources for young Muslim children.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm doing
+- 📚 Publisher of **Muslim Junior**, a printed activity book for Muslim kids
+- 🌐 Building and upgrading [mammasjourney.com](https://mammasjourney.com)
+- 🤖 Learning web development and AI tools, one small project at a time
+
+### 💼 Background
+MBA graduate, former working professional, now a mom building her own brand.
+
+### 📫 Connect with me
+- Website: [mammasjourney.com](https://mammasjourney.com)
+
+---
+*Learning in public — every repo here is a step in my journey.* ✨
