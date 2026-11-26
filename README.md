@@ -6,14 +6,14 @@ Founder of **Mammas Journey** — creating joyful, faith-based learning resource
 
 ### 🌱 What I'm doing
 - 📚 Publisher of **Muslim Junior**, a printed activity book for Muslim kids
-- 🌐 Building and upgrading [mammasjourney.com](https://mammasjourney.com)
+- 🌐 Building and upgrading [mammasjourney.com](www.mammasjourney.com)
 - 🤖 Learning web development and AI tools, one small project at a time
 
 ### 💼 Background
 MBA graduate, former working professional, now a mom building her own brand.
 
 ### 📫 Connect with me
-- Website: [mammasjourney.com](https://mammasjourney.com)
+- Website: [mammasjourney.com](www.mammasjourney.com)
 
 ---
 *Learning in public — every repo here is a step in my journey.* ✨
